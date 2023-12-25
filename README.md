@@ -12,7 +12,7 @@ source venv/bin/activate
 
 # How to run
 ```
-python3 main.py
+python3 exoplanet_visualization.py
 ```
 
 # Final visualization
